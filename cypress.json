@@ -1,0 +1,13 @@
+{
+	"env": {
+    "stagingurl": "https://bottlerepublic-web-stage.herokuapp.com",
+    "produrl": "https://www.bottlerepublic.com",
+    "stagingproductkey": "Vina Real Crianza"
+  	},
+	"chromeWebSecurity": false,
+	"video": false,
+	"requestTimeout": 40000,
+	"screenshotOnRunFailure": false,
+	"viewportWidth": 360,
+	"viewportHeight": 640
+}
